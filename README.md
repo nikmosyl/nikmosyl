@@ -1,4 +1,4 @@
-[![Leetcode Stats](https://leetcard.jacoblin.cool/nikmosyl?theme=transparent)](https://leetcode.com/nikmosyl)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/nikmosyl?ext=heatmap&theme=dark)](https://leetcode.com/nikmosyl)
 
 <!--
 **nikmosyl/nikmosyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
